@@ -1,12 +1,11 @@
 ## Hi, I'm Shaz. 
 
-I work on public interest tech in cities worldwide. 
+:iphone: I work on public interest tech in cities worldwide. 
 
 
 
 
 <p>
-:yellow_heart: I love exploring functional movement & nervous system health
-
+:yellow_heart: I love exploring functional movement 
 <p>
   :wave: Come say hi on <a href = "https://www.linkedin.com/in/shazjameson">linkedin</a> or <a href="https://twitter.com/shazjameson">twitter</a>.
