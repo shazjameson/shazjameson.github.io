@@ -14,7 +14,7 @@ As a social scientist, I specialise in how values drive innovation in public sec
 ### PhD
 <p>
 My PhD research analyses tech policy in Singapore. I explore ambiguities in debates and public space, and strategies used to negotiate boundaries. The thesis is a multi-disciplinary ethnography, due in 2023. You can see my academic publications
-<a href=“https://research.tilburguniversity.edu/en/persons/shazade-jameson”> here </a>.
+[here](https://research.tilburguniversity.edu/en/persons/shazade-jameson).
 
 
 ### Values
