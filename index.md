@@ -1,7 +1,7 @@
 ## Hi, I'm Shaz. 
 
 I work on public interest tech in cities worldwide. I support city leaders in designing process for the things we value.
-<br>
+<p>
 As a social scientist, I specialise in how values drive innovation in public sector governance.
 
 <p>
